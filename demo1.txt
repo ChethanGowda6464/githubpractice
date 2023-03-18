@@ -1,0 +1,3 @@
+hi guys good morining 
+today we r going to learn about git, vcs and why vcs?
+next we learn about remote area
